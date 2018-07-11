@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+    background-color: #6DD677;
+}
+h1 {
+    color: white;
+    font-family: cursive;
+    font-size: 3rem;
+}
+button {
+    margin-top: 24rem;
+    color: white;
+    height: 3rem;
+    width: 6rem;
+    border: 1px solid white;
+    outline: none;
+    
+}
